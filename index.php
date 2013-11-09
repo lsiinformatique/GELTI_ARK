@@ -45,7 +45,7 @@ include ('inc/header.php');
 				<td>Inconnu</td>
 			</tr>
 		</table>
-		<img src="template/img/icons/warning.jpg" />:Les Statistiques seront mis à jour le 1er de chaque trimestre.<br>
+		<p><img src="<?php echo $rootsite; ?>template/general/img/icons/warning.png" />:Les Statistiques seront mis à jour le 1er de chaque trimestre.</p><br>
 		*: Statistique mise à jour Mars 2013.
 	</div>
 
